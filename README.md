@@ -1,4 +1,4 @@
-# ⛏️ Bitcoin Mining Profitability vs. Renewable Availability Simulator
+#  Bitcoin Mining Profitability vs. Renewable Availability Simulator
 
 > **v2.0 — All 8 planned features implemented! ✅** 
 
@@ -635,7 +635,7 @@ Built as a portfolio project for **Agile Energy X 2026 Summer Internship**.
 
 ## 👤 Author
 
-**Your Name** — Portfolio project demonstrating:
+
 - 📊 Energy economics modeling
 - 🎯 Optimization algorithms
 - 💰 Financial simulation
@@ -645,20 +645,9 @@ Built as a portfolio project for **Agile Energy X 2026 Summer Internship**.
 
 ---
 
-## 🤝 Contributing
 
-Contributions welcome! Please:
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ---
-
-## 📧 Contact
-
-For questions or feedback about this project, please open an issue on GitHub.
 
 ---
 
