@@ -132,18 +132,6 @@ python src/simulate.py
 ```
 Simulates historical mining profitability over the past 30 days with detailed summary.
 
-### Option 3: Launch Interactive Dashboard
-```bash
-streamlit run dashboard/app.py
-```
-Opens a web dashboard at `http://localhost:8501` with:
-- 🔴 **Live Decision** – Current GO/NO-GO status
-- 📈 **7-Day Forecast** – Profitability charts & optimal schedule
-- 📊 **Multi-Location Comparison** – Best mining location ROI
-- 💰 **Carbon Credit Analysis** – ESG revenue tracking
-- ⚡ **Demand Response Tracking** – Grid pricing opportunities
-- 🪙 **Altcoin Profitability** – Mine LTC, DOGE, or BTC
-- 📅 **30-Day Backtest** – Historical analysis
 
 ### Option 4: Run REST API Server (NEW v2.0)
 ```bash
